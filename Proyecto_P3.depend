@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1428347332 source:c:\users\pc\documents\unitec\progra iii\c++ projects\proyecto_p3\main.cpp
+	<allegro.h>
+	<iostream>
+	<fstream>
+	<allegro/sound.h>
+	"BlackBat.h"
+	"WhiteBird.h"
+
+1427949943 source:c:\users\pc\documents\unitec\progra iii\c++ projects\proyecto_p3\personaje.cpp
+	"Personaje.h"
+
+1427952177 c:\users\pc\documents\unitec\progra iii\c++ projects\proyecto_p3\personaje.h
+	<allegro.h>
+
+1427996340 source:c:\users\pc\documents\unitec\progra iii\c++ projects\proyecto_p3\menu1.cpp
+	"Menu1.h"
+
+1427996340 c:\users\pc\documents\unitec\progra iii\c++ projects\proyecto_p3\menu1.h
+
+1428030147 source:c:\users\pc\documents\unitec\progra iii\c++ projects\proyecto_p3\pantalla.cpp
+	"Pantalla.h"
+
+1428030281 c:\users\pc\documents\unitec\progra iii\c++ projects\proyecto_p3\pantalla.h
+	<allegro.h>
+
+1428309554 source:c:\users\pc\documents\unitec\progra iii\c++ projects\proyecto_p3\blackbat.cpp
+	"BlackBat.h"
+
+1428212250 c:\users\pc\documents\unitec\progra iii\c++ projects\proyecto_p3\blackbat.h
+	<allegro.h>
+	<iostream>
+
+1428212250 c:\users\pc\documents\unitec\progra iii\c++ projects\proyecto_p3\whitebird.h
+	<allegro.h>
+	<iostream>
+
+1428212815 source:c:\users\pc\documents\unitec\progra iii\c++ projects\proyecto_p3\whitebird.cpp
+	"WhiteBird.h"
+

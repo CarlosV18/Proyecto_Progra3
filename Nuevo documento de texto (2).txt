@@ -1,0 +1,19 @@
+HACER UN SPACE SHOOTER
+*La nave tendra una animacion de que se le mueven las llamas de los propulsores
+*El fondo se ira moviendo en direccion contraria hacia donde apunta la nave, generando efecto de avance
+*tendra 3 niveles (opcional 4)
+
+NIVELES:
+-primer nivel:
+*la dificultad sera minima, la velocidad de las rocas u objetos sera normal, de podran destruir de un disparo.
+-segundo nivel:
+*la dificulatad subirá un poco. La velocidad de las rocas u objetos será la misma, pero la dureza de estos mismos aumentará
+-tercer nivel:
+*la dificultad estará elevada. La velocidad y frecuencia con que salen los objetos aumentará y la dureza aumentará un poco más.
+
+NOTA: con cada nivel el fondo cambiará. También considerar que al final de cada  nivel salga un monstruo.
+
+POSIBLES EFECTOS DE IMAGEN Y SONIDO (pendiente de agregar más):
+*efectos de disparo de la nave(sonido)
+*efectos de destruccion de los objetos (imagen y sonido)
+*efectos de destruccion de la nave (imagen y sonido)
